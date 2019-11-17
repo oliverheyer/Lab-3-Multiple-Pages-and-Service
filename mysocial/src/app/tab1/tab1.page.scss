@@ -1,0 +1,58 @@
+
+.welcome-card img {
+  max-height: 50vh;
+  overflow: hidden;
+}
+
+
+ion-card-header{
+  background-color: #ffffff;
+  // border-bottom: 1px solid rgb(255, 255, 255);
+  
+}
+
+ion-card-content{
+  padding-bottom: 0px;
+  background-color: #fff;
+}
+
+img{
+  max-height: 300px;
+}
+
+ion-card-subtitle{
+text-transform: none;
+width: 50%;
+display: inline-block;
+}
+.post{
+  font-size: 12px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+
+}
+.message{
+  padding-bottom: 5px;
+  font-size: 15px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+
+}
+.date{
+  font-size: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+.img1{
+  
+  border-radius: 5%;
+}
+
+ion-card{
+  margin-top:0px;
+  margin-bottom: 0px;
+}
+
+.top{
+  font-family: cursive;
+}
